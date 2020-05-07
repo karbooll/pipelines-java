@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dovecote/WebApp/_apis/build/status/karbooll.pipelines-java?branchName=master)](https://dev.azure.com/dovecote/WebApp/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
